@@ -38,7 +38,7 @@ GitHub Link:https://github.com/dhivyajanarthanan7-maker/Multiple-Disease-predict
 ---
 
 ## Resume
-[Download My Resume](UPLOAD_YOUR_RESUME_PDF_HERE)
+https://github.com/dhivyajanarthanan7-maker/Dhivya-Portfolio/blob/main/Dhivya_Janarthanan_Data_Analyst.pdf
 
 ## Connect With Me
 LinkedIn: https://www.linkedin.com/in/dhivya-janarthanan-283a37321/
