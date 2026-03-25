@@ -1,16 +1,73 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 👋 Dhivya Janarthanan
 
-Currently, two official plugins are available:
+### 🚀 Machine Learning Engineer | Computer Vision | Python & SQL
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+📍 Chennai, India  
+📧 dhivyajanarthanan7@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/dhivya-janarthanan-283a37321/)  
+💻 [GitHub](https://github.com/dhivyajanarthanan7-maker)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 👩‍💻 About Me
 
-## Expanding the ESLint configuration
+Data Science and Machine Learning professional with strong expertise in Python, SQL, and predictive analytics.  
+Experienced in building end-to-end ML pipelines and computer vision solutions using YOLOv8.  
+Passionate about solving real-world problems using AI.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Skills
+
+- Python, SQL  
+- Machine Learning, Deep Learning  
+- YOLOv8, Computer Vision  
+- Pandas, NumPy, Scikit-learn  
+- AWS EC2, AWS RDS  
+- Streamlit  
+
+---
+
+## 🚀 Projects
+
+### 🔹 UrbanBot – Smart City Analytics
+- AI-based smart city monitoring system  
+- Used YOLOv8 for traffic, accident & road damage detection  
+- Built ETL pipeline with MySQL & AWS  
+- Streamlit dashboard for real-time analytics  
+
+👉 [View Project Code](https://github.com/dhivyajanarthanan7-maker)
+
+---
+
+### 🔹 Multiple Disease Prediction
+- ML model to predict diseases using patient data  
+- Used Scikit-learn for classification  
+- Built Streamlit UI for real-time prediction  
+
+👉 [View Project Code](https://github.com/dhivyajanarthanan7-maker)
+
+---
+
+## 💼 Experience
+
+**Assistant Professor – ECE (2012–2019)**  
+- Worked on data analysis using MATLAB  
+- Conducted technical workshops  
+- Developed analytical and problem-solving skills  
+
+---
+
+## 📜 Certifications
+
+- Advanced Data Science Program – GUVI (IIT-M Pravartak)  
+- Data Engineering & Big Data – GUVI  
+- Web Scraping – GUVI  
+- Data Analytics using Pandas – GUVI  
+
+---
+
+
+⭐ If you like my work, feel free to connect!
+
